@@ -1,0 +1,25 @@
+nav {
+  margin-left: 3rem;
+  border-bottom: 3px solid #f1f1f1;
+  padding: 10px 0px 0px;
+  width: 30%;
+  padding-bottom: 0px;
+  font-family: Playwrite HU;
+}
+img {
+  min-width: 20rem;
+  max-width: 30rem;
+  margin: 0 1rem 3rem 1rem;
+  /* margin goes top left bottom right */
+}
+
+.container {
+  padding-top: 50px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+body {
+  background-color: beige;
+}

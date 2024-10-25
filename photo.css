@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+img {
+  width: 30%;
+  margin: calc(10% / 6);
+}
+/* 3 images 30% width so 90% is occupied. 10% remaining and left and right of each image margin is required. so 6 places using 10% */
+nav {
+  text-transform: uppercase;
+  border-bottom: 2px solid #f1f1f1;
+  margin-left: calc(10% / 6);
+  width: 30%;
+  padding: 1.2em 0;
+  /* 20px 0 means 20 top and bottom and 0 left andf right */
+}
